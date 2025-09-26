@@ -29,10 +29,9 @@ Machine Learning · Predictive Modeling · Product Analytics · Strategy · Fina
 ## 🚀 Project Highlights
 
 ### 📊 Defect Detection Model (In Progress)
-Developed a machine learning model that helps detect product defects from images-- automating a task traditionally done by human inspectors.  
-This project uses Python and computer vision tools to classify defects, aiming to reduce inspection time and improve accuracy.
-Currently refining the model and designing a dashboard to visualize results in real time.
+-Developed a machine learning model to detect product defects from image data—automating a task traditionally performed by human inspectors.  
+-Utilized Python and computer vision tools to classify defects, aiming to reduce inspection time and improve quality control accuracy.  
+-Currently optimizing model performance and designing a dashboard for real-time visualization and decision support.
+
 - **Tools**: Python, scikit-learn, OpenCV, Jupyter  
-- **Techniques**: Classification, image preprocessing, model evaluation  
-- **Goal**: Reduce inspection time and improve quality control accuracy  
-- **Status**: Currently improving model efficiency and developing a dashboard for real-time insights
+- **Techniques**: Image preprocessing, classification, model evaluation  
