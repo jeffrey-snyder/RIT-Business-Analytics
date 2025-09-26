@@ -4,7 +4,7 @@ Curriculum overview and coursework from the MS Business Analytics program at RIT
 # 🎓 MS Business Analytics @ RIT
 
 ## 📅 Expected Graduation
-May 2026
+August 2026
 
 ## 📘 Core Curriculum
 - BANA 680 – Data Management for Business Analytics
